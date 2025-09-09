@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "导航",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "快速开始",
             "pages": [
               "index",
               "quickstart",
